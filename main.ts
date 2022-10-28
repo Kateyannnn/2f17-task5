@@ -34,6 +34,3 @@ input.onButtonPressed(Button.B, function () {
 let y_value = 0
 let x_value = 0
 basic.showString("2F17 Kate")
-basic.forever(function () {
-	
-})
